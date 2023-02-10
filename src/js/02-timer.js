@@ -6,7 +6,6 @@ import 'flatpickr/dist/flatpickr.min.css';
 
 import Notiflix from 'notiflix';
 
-import { Notify } from 'notiflix/build/notiflix-notify-aio';
 
 const input = document.querySelector('input[type="text"]');
 const btnStart = document.querySelector('button[data-start]');
